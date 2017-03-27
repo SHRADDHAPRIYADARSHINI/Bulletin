@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.milkiminz.raddilo.PostAds">
+
+    <Button
+        android:id="@+id/abutt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="post"
+        android:text="POST"
+        tools:layout_editor_absoluteX="135dp"
+        tools:layout_editor_absoluteY="292dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="82dp" />
+
+    <EditText
+        android:id="@+id/apr"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Price"
+        tools:layout_editor_absoluteX="84dp"
+        tools:layout_editor_absoluteY="196dp"
+        android:layout_marginLeft="72dp"
+        android:layout_marginStart="72dp"
+        android:layout_above="@+id/abutt"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="62dp"
+        android:inputType="number" />
+
+    <TextView
+        android:id="@+id/tv1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ad Details"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="138dp"
+        tools:layout_editor_absoluteY="33dp"
+        android:layout_marginTop="34dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:id="@+id/ades"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Ad Description"
+        android:inputType="textMultiLine"
+        tools:layout_editor_absoluteX="84dp"
+        tools:layout_editor_absoluteY="103dp"
+        android:layout_below="@+id/tv1"
+        android:layout_alignLeft="@+id/apr"
+        android:layout_alignStart="@+id/apr"
+        android:layout_marginTop="78dp" />
+</RelativeLayout>

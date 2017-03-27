@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_chome"
+            android:icon="@drawable/home"
+            android:title="@string/homemenu" />
+        <item
+            android:id="@+id/nav_cbook"
+            android:icon="@drawable/home"
+            android:title="@string/bookingmenu"
+            />
+        <item
+            android:id="@+id/nav_cprofile"
+            android:icon="@drawable/face"
+            android:title="@string/myprofilemenu" />
+        <item
+            android:id="@+id/nav_aboutus"
+            android:icon="@drawable/aboutus"
+            android:title="@string/abtus"/>
+
+    </group>
+
+
+
+</menu>

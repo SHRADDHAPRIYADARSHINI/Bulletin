@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "429323025420",
+    "firebase_url": "https://raddilo-bf72c.firebaseio.com",
+    "project_id": "raddilo-bf72c",
+    "storage_bucket": "raddilo-bf72c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429323025420:android:cc37e24907c1b5f2",
+        "android_client_info": {
+          "package_name": "com.example.milkiminz.raddilo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429323025420-hr70bk1tirlmj38et3auq6984egrka28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD141Q6jj-UKVL8gPetxab74wHe4-b_v5E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

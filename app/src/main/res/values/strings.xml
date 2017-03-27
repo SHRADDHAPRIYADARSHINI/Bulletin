@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name">Bulletin</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title_activity_logincust">Log In</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_password">Password </string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="title_activity_loginshop">LogIn</string>
+    <string name="title_activity_home_shop">HomeShop</string>
+    <string name="title_activity_home_cust">HomeCust</string>
+    <string name="title_activity_profile_shop">ProfileShop</string>
+    <string name="title_activity_profile_cust">ProfileCust</string>
+    <string name="title_activity_updatecust">updatecust</string>
+    <string name="title_activity_updateshop">updateshop</string>
+    <string name="title_activity_bookings">Bookings</string>
+
+
+    <string name="booking_url">http://139.59.47.63/fetchmyorders.php</string>
+    <string name="feedback_url">http://139.59.47.63/feedback.php</string>
+    <string name="success">success</string>
+    <string name="successfully_send">Successfully Send</string>
+    <string name="enter_query">Kindly Enter your query first!!</string>
+    <string name="homecusturl">http://139.59.47.63/bookraddiorder.php</string>
+    <string name="homeshopurl">http://139.59.47.63/fetchtodayorders.php</string>
+    <string name="successful_order">Ordered Successfully</string>
+    <string name="fetchshopurl">http://139.59.47.63/fetchshop.php</string>
+    <string name="slowinternet">Internet is slow. Please try again with good internet speed.</string>
+    <string name="logincust">http://139.59.47.63/logincust.php</string>
+    <string name="enteremailpassword">Enter your email and password!!!!</string>
+    <string name="loginshop">http://139.59.47.63/loginshop.php</string>
+    <string name="loginsp">http://139.59.47.63/loginsp.php</string>
+    <string name="loginsad">http://139.59.47.63/loginad.php</string>
+    <string name="verifycust">http://139.59.47.63/verifycust.php</string>
+    <string name="verifyshop">http://139.59.47.63/verifyshop.php</string>
+    <string name="custprofile">http://139.59.47.63/getprofilecust.php</string>
+    <string name="shopprofile">http://139.59.47.63/getprofileshop.php</string>
+    <string name="registerad">http://139.59.47.63/registerad.php</string>
+    <string name="registersp">http://139.59.47.63/registerspon.php</string>
+    <string name="registercust">http://139.59.47.63/registercust.php</string>
+    <string name="registershop">http://139.59.47.63/registershop.php</string>
+    <string name="updatecust">http://139.59.47.63/updatecustdetails.php</string>
+    <string name="updateshop">http://139.59.47.63/updateshopdetails.php</string>
+    <string name="differentpassword">"Password did not match"</string>
+    <string name="fillfields">Kindly fill all Fields!!</string>
+    <string name="ar">Already Registered</string>
+    <string name="rf">"Registration Failed"</string>
+    <string name="failed">failed</string>
+    <string name="already">already</string>
+    <string name="enterotp">Enter OPT</string>
+    <string name="vf">Verification Failed</string>
+    <string name="enterweight">Kindly enter the Approx weight in KG</string>
+
+
+    <string name="name">Name:</string>
+    <string name="email">Email:</string>
+    <string name="phone">Phone:</string>
+    <string name="quantity">Quantity:</string>
+    <string name="address">Address:</string>
+    <string name="paper">Paper:</string>
+    <string name="metal">Metal:</string>
+    <string name="plastic">Plastic:</string>
+    <string name="glass">Glass:</string>
+    <string name="others">Others:</string>
+    <string name="raddilo">Bulletin</string>
+    <string name="quote">Recycle at best </string>
+    <string name="shopname">Shop Name:</string>
+    <string name="shopemail">Shop Email:</string>
+    <string name="shopphone">Shop Phone:</string>
+    <string name="shopadd">Shop Address:</string>
+    <string name="update">Update</string>
+    <string name="todayorder">Todays Order</string>
+    <string name="selectshop">Select Shop</string>
+    <string name="aw">Approx weight</string>
+    <string name="sellnow">Sell Now</string>
+    <string name="kg">IN KG</string>
+    <string name="myorder">My Orders</string>
+    <string name="accalready">Already Have an Account</string>
+    <string name="registration">Registration</string>
+    <string name="submit">Submit</string>
+    <string name="confirmpassword">Confirm Password</string>
+    <string name="resendotp">Resend OTP</string>
+    <string name="givefeedback">Give us your Feedback</string>
+    <string name="send">Send</string>
+    <string name="feedback">FeedBack</string>
+    <string name="support">Support us to Build a clean World As:</string>
+    <string name="customer">Customer</string>
+    <string name="recycler">Recycler</string>
+    <string name="abtus">About Us</string>
+    <string name="para">The app aims at promoting recycling. Through our app recyclers will be collecting the items to be recycled (paper, plastic, metal, glass) from the sellers or the customers who will be selling them out when they want to. This is primarily for families, students, and organizations those who have items that are no longer of any use to them and could be recycled.
+Secondly, our app will be doing advertisement business. We will post ads of companies, organizations, business etc. in our app, for those who wants to be advertised.
+ </string>
+    <string name="github">Github:  https://github.com/milkiminz</string>
+    <string name="milki">Name:  Milki Minz</string>
+    <string name="mymail">Email: wwwmilki.minz096@gmail.com</string>
+    <string name="abtdev">About Developer</string>
+
+
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_home_footer">ca-app-pub-6129156869323654</string>
+    <string name="fetchfeatures">http://kgbvbundu.org/capstone/fetchfeatures.php</string>
+    <string name="upcomingfeatures">Upcoming Features !</string>
+    <string name="arrow">-></string>
+    <string name="successfullyupdated">Successfully Updated</string>
+    <string name="successfullyregistered">Successfully Registered</string>
+
+
+    <string name="cdad">About Developers Activity</string>
+    <string name="uf">Upcoming Features</string>
+    <string name="item">TextView</string>
+    <string name="choose">Choose-Role</string>
+    <string name="ufa">Upcoming Features</string>
+    <string name="abt">About Developers!</string>
+    <string name="login">Login</string>
+    <string name="logout">LogOut</string>
+    <string name="otpver">Check your Email Or Spam for an OTP!</string>
+    <string name="me">Milki Minz</string>
+    <string name="homemenu">Home</string>
+    <string name="bookingmenu">Booking</string>
+    <string name="myprofilemenu">My Profile</string>
+    <string name="catalog">Catalog !</string>
+    <string name="selecttheitems">Select The Items</string>
+    <string name="portfolio">http://milkiminz.com</string>
+    <string name="title_activity_home_sp">HomeSp</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home_ad">HomeAd</string>
+    <string name="title_activity_profile_sp">ProfileSp</string>
+    <string name="title_activity_profile_ad">ProfileAd</string>
+    <string name="title_activity_all_ads">AllAds</string>
+    <string name="title_activity_my_ads">MyAds</string>
+    <string name="title_activity_update_ad">UpdateAd</string>
+</resources>

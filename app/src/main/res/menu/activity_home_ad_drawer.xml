@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_adpost"
+
+        android:title="Post Ads" />
+
+    <item
+        android:id="@+id/nav_adhome"
+
+        android:title="My Ads" />
+    <item
+        android:id="@+id/nav_adprofile"
+        android:title="My profile" />
+
+
+
+
+</menu>
